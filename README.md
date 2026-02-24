@@ -1,6 +1,6 @@
 <!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=ARROWZK56;Junior+Software+Developer;Estudante+de+Programação+-+SENAI;Backend+%7C+Full+Stack+em+Formação" />
+  <img src="https://nac.cni.com.br/blog/wp-content/uploads/2025/02/senai-768x432.jpeg" />
 </p>
 
 ---
